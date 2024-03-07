@@ -18,3 +18,6 @@
 
 6. ```bash
    npm start
+
+### mock server data hosted on 
+https://mock-json-k8w5.onrender.com/blogs/
